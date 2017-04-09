@@ -1,0 +1,16 @@
+{
+  "name": "light-keyboard",
+  "version": "1.0.0",
+  "description": "play your lifx lights with a midi keyboard",
+  "main": "index.js",
+  "dependencies": {
+    "midi": "^0.9.5",
+    "node-lifx": "^0.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
